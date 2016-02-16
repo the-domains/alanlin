@@ -1,0 +1,28 @@
+name: alanlin
+favicon: null
+layout_spectrum: 0.12944465526379645
+typography_spectrum: 0.3093353339936584
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.35322792548686266
+  lightness: 0.5796180390752852
+  saturation: 0.22253001248463988
+  rhythmicContrast: 0.24985012132674456
+purpose: []
