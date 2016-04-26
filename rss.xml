@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Preoccupied]]></title>
         <description><![CDATA[Preoccupied]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alanlin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 12:30:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 12:38:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alanlin/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello, and welcome to the Preoccupied Podcast, a show where we examine people's stories, thoughts, and concerns - in short, what they're preoccupied with. The show will feature interviews with people from various professions and backgrounds to encompass a wide breadth of perspectives. </p>]]></description>
-            <link>undefinedhello-and-welcome-to-the-preoccupied-podcast-a-show-where/index.html</link>
+            <link>https://thegrid.ai/alanlin/hello-and-welcome-to-the-preoccupied-podcast-a-show-where/index.html</link>
             <guid isPermaLink="false">29467c3c-d381-4144-b322-ee0091e86fd2</guid>
-            <pubDate>Tue, 26 Apr 2016 12:30:10 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 12:38:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
